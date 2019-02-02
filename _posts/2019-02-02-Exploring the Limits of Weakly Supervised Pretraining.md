@@ -1,5 +1,5 @@
 ---
-title: "Improved Deep Metric Learning with Multi-class N-pair Loss Objective"
+title: "Exploring the Limits of Weakly Supervised Pretraining"
 date: 2019-02-02 18:08:00 -0400
 categories: paper ML
 ---
