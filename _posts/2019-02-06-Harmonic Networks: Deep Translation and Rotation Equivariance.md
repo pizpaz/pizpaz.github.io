@@ -32,7 +32,8 @@ m=0 은 그냥 가우시안 필터가 되고, m=1,2 등의 rotation order를 가
 
 
 논문에선 명시적으로 표현은 안했지만, 수식 표현과 복소수 공간이라는 단서에서, 푸리에 변환과 연관되어 있음을 알 수 있다. 
-http://blogfiles.naver.net/MjAxODEyMTNfMjM0/MDAxNTQ0Njg3MDc2MTQ4.p45wokxV2MhyAiaNiWnvuBr3qV3bMqNY-0GpK4UWSL4g.YmeMcSuua6_0McDccvqRV__6u3d8aBcnSNqlB2OOkWcg.PNG.pizpaz3/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-12-13_%EC%98%A4%ED%9B%84_3.14.34.png
+
+<img src="http://blogfiles.naver.net/MjAxODEyMTNfMjM0/MDAxNTQ0Njg3MDc2MTQ4.p45wokxV2MhyAiaNiWnvuBr3qV3bMqNY-0GpK4UWSL4g.YmeMcSuua6_0McDccvqRV__6u3d8aBcnSNqlB2OOkWcg.PNG.pizpaz3/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2018-12-13_%EC%98%A4%ED%9B%84_3.14.34.png" width="500" />
 
 그래서 위와 같은 필터를 어떻게 만드느냐. phase offset은 일단 제외하고 생각해보자.
 
