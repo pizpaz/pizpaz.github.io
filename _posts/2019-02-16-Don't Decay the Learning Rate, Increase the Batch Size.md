@@ -47,5 +47,5 @@ Imagenet도 비슷하다.
 ![5](https://user-images.githubusercontent.com/2917022/52892894-4c0c0b00-31da-11e9-8253-9a4626a9be3c.png)
 
 # 비고
-* (구글은 스케일이 우리랑 다른게, 몇만 단위로 batch size가 늘어나네...
+* (당연한 이야기이지만) 구글은 스케일이 우리랑 다른게, 몇만 단위로 batch size가 늘어나네...
 * 우리 단일 장비에서는 batch size가 제한적이라, 지금 서비스에 적용한 lr decay 하는 비율만큼 batch size를 올리기는 힘들겠네. 그렇지만 적당히 lr decay 비율을 조정하고 거기에 맞춰서 실험해볼 수는 있을 듯.
