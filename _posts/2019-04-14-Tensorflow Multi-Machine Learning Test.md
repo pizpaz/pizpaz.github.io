@@ -8,6 +8,16 @@ categories: tensorflow ML
 
 ## 언제까지 100만장에서 놀아나고 있을 것인가. 가자! 분산 머신 학습!
 ##### 안되면 말고.
+### 참고
+* [Distributed TensorFlow - TensorFlow Dev Summit 2018](https://www.youtube.com/watch?v=-h0cWBiQ8s8)
+* [Distributed Training in TensorFlow](https://www.tensorflow.org/guide/distribute_strategy)
+* https://www.tensorflow.org/api_docs/python/tf/estimator/train_and_evaluate
+* [Distribution Strategy](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/distribute)
+* https://www.tensorflow.org/api_docs/python/tf/estimator/train_and_evaluate
+* https://github.com/tensorflow/examples/blob/master/community/en/docs/deploy/distributed.md
+* https://github.com/tensorflow/community/blob/master/rfcs/20181016-replicator.md
+* [Goodbye Horovod, Hello CollectiveAllReduce](https://www.logicalclocks.com/goodbye-horovod-hello-tensorflow-collectiveallreduce)
+* [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h5.pdf)
 
 ## 학습 속도 실험
 1. 1 worker에서 in-graph로 동작하는 Mirrored strategy와 between-graph로 동작하는 CollectiveAllReduce 학습 속도 비교
