@@ -1,7 +1,7 @@
 ---
 title: "Tensorflow Multi-machine learning test"
 date: 2019-04-14 17:58:28 -0400
-categories: tensorflow ML
+categories: Tensorflow ML
 ---
 
 회사에서 학습셋으로 몇천만장 단위의 데이터를 뽑을 수 있게 되었는데 100만장 정도의 학습셋을 학습한 경험 밖에 없다. 이 상태에선 파라미터 튜닝은 기다리다 지쳐 못한다.
