@@ -20,7 +20,7 @@ plugins:
 locale                   : "en-US"
 title                    : "Computer Engineering Blog"
 title_separator          : "-"
-name                     : "Nicolas Won"
+name                     : "..."
 description              : "-"
 url                      : "https://pizpaz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -108,11 +108,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicolas Won"
+  name             : "..."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Naver corp."
+  bio              : "..."
   location         : "Seoul, South Korea"
-  email            : "lorytail@naver.com"
+  email            : "..."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
